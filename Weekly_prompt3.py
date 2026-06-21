@@ -14,5 +14,5 @@
 # However, as long as it is important to make sure the class does not execute multiple tasks at once, we should ensure to not oversimplify the program and analyze the statement to find the perfect balance for the responsibilities. 
 # To meet that principles when designing a program it is important to always ask certain question that can help to identify if it will be a multitask like :  what is the responsibility of my class? does this class perform more than one unrelated task? 
 # if the answer includes the word "and", it might requires to analyze the responsibility of the class and make it is single responsibility.  
-# Finally, by assigning one responsibility to each class, the program becomes more organized, flexible, and easier to maintain. 
+# Finally, by assigning one responsibility to each class, the program becomes more organized, flexible, and easier to maintain.  
 
